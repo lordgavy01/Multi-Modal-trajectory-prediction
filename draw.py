@@ -28,7 +28,7 @@ while running:
         if event.type==pygame.MOUSEBUTTONDOWN:
             pos=pygame.mouse.get_pos()
             x,y=pos
-            side_length=45
+            side_length=30
             draw_obstacle(screen,x,y,side_length)
             # pygame.draw.polygon(screen,(255,0,0),[(x,y),(x+100,y-50),(x+100,y+50),(x,y+100),(x-100,y+50),(x-100,y-50)])
         
