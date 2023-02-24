@@ -4,7 +4,7 @@ from robots import *
 from collections import defaultdict
 
 class RRTStar:
-    def __init__(self, robot_type, start, goal,obstacles_list,radius_obstacle,occupancy_map=None, max_iterations=1000, step_size=0.1, goal_tolerance=35, rewiring_radius=25.0):
+    def __init__(self, robot_type, start, goal,obstacles_list,radius_obstacle,occupancy_map=None, max_iterations=1000, step_size=0.1, goal_tolerance=10, rewiring_radius=25.0):
         self.robot_type = robot_type
         self.start = start
         self.goal = goal

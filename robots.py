@@ -22,7 +22,7 @@ class MobileRobot:
         d=sqrt((x1-x0)**2 + (y1-y0)**2)
 
         # non intersecting
-        if d > r0 + r1 :
+        if d > r0 + r1:
             return False
         # # One circle within other
         # if d < abs(r0-r1):
@@ -45,8 +45,8 @@ class MobileRobot:
         x = np.random.uniform(xBound)
         y = np.random.uniform(yBound)
         while self.check_safe((x,y),obstacles_list,radius_obstacle):
-            x = np.random.uniform(xBound)
-            y = np.random.uniform(yBound)
+            x = np.random.randint(xBound)
+            y = np.random.randint(yBound)
         return (x, y)
     def steer(self,old_config,new_config,step_size):
         direction=atan2(new_config[1]-old_config[1],new_config[0]-old_config[0])
