@@ -28,8 +28,8 @@ treeImage=markedImage.copy()
 while max_iterations:
     eps=np.random.uniform()
     q = driverRRT.get_random_config(Background.image.get_width(),Background.image.get_height())
-    if eps<0.4:
-        q=goal
+    # if eps<0.4:
+    #     q=goal
     q_near_index = driverRRT.nearest_vertex(q)
     q_near=driverRRT.vertices[q_near_index]
     q_new = driverRRT.steer(q_near, q)

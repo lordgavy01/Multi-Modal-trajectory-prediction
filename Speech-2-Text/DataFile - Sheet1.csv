@@ -1,0 +1,107 @@
+transcript,audioFile
+Move faster near obstacle 1 and take left of obstacle 2 and be closer to obstacle 3.,1
+Move slower in the early segment and take right of obstacle 3 and be farther from obstacle 2.,2
+Move faster in the mid-segment and take left of obstacle 1 and be closer to obstacle 4.,3
+Move slower near obstacle 2 and take right of obstacle 4 and be farther from obstacle 1.,4
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 2.,5
+Move slower near obstacle 3 and take right of obstacle 1 and be farther from obstacle 4.,6
+Move faster in the early segment and take left of obstacle 4 and be closer of obstacle 1.,7
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,8
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,9
+Move slower near obstacle 4 and take right of obstacle 3 and be farther from obstacle 2.,10
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 3.,11
+Move slower in the mid-segment and take right of obstacle 1 and be farther from obstacle 4.,12
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 2.,13
+Move slower near obstacle 1 and take right of obstacle 4 and be farther from obstacle 2.,14
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 1.,15
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 2.,16
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 4.,17
+Move slower near obstacle 2 and take right of obstacle 1 and be farther from obstacle 3.,18
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 4.,19
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 1.,20
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 2.,21
+Move slower near obstacle 3 and take right of obstacle 2 and be farther from obstacle 4.,22
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 1.,23
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 3.,24
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 4.,25
+Move slower near obstacle 4 and take right of obstacle 3 and be farther from obstacle 2.,26
+Move faster in the early segment and take left of obstacle 1 and be closer to obstacle 4.,27
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,28
+Move slower near obstacle 1 and take right of obstacle 2 and be farther from obstacle 4.,29
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 2.,30
+Move slower in the mid-segment and take right of obstacle 1 and be farther from obstacle 4.,31
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 1.,32
+Move slower near obstacle 2 and take right of obstacle 3 and be farther from obstacle 1.,33
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 3.,34
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 1.,35
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,36
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 4.,37
+Move slower near obstacle 1 and take right of obstacle 2 and be farther from obstacle 3.,38
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 3.,39
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 4.,40
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 1.,41
+Move slower near obstacle 3 and take right of obstacle 1 and be farther from obstacle 4.,42
+Move slower near obstacle 3 and take right of obstacle 4 and be farther from obstacle 2.,43
+Move faster in the early segment and take left of obstacle 1 and be closer to obstacle 3.,44
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 4.,45
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 4.,46
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 1.,47
+Move faster in the late segment and take left of obstacle 4 and be closer to obstacle 2.,48
+Move slower near obstacle 1 and take right of obstacle 3 and be farther from obstacle 2.,49
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 1.,50
+Move slower near obstacle 3 and take right of obstacle 4 and be farther from obstacle 2.,51
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 4.,52
+Move slower in the mid-segment and take right of obstacle 1 and be farther from obstacle 2.,53
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 3.,54
+Move slower near obstacle 4 and take right of obstacle 2 and be farther from obstacle 1.,55
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 1.,56
+Move slower near obstacle 2 and take right of obstacle 3 and be farther from obstacle 1.,57
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 2.,58
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,59
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,60
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 2.,61
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 3.,62
+Move slower near obstacle 2 and take right of obstacle 1 and be farther from obstacle 4.,63
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 3.,64
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 2.,65
+Move slower in the mid-segment and take right of obstacle 1 and be farther from obstacle 4.,66
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 2.,67
+Move slower near obstacle 1 and take right of obstacle 2 and be farther from obstacle 3.,68
+Move faster in the late segment and take left of obstacle 4 and be closer to obstacle 1.,69
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,70
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 1.,71
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 3.,72
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 3.,72
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 4.,73
+Move slower near obstacle 4 and take right of obstacle 3 and be farther from obstacle 2.,74
+Move faster in the early segment and take left of obstacle 1 and be closer to obstacle 4.,75
+Move slower near obstacle 2 and take right of obstacle 1 and be farther from obstacle 4.,76
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 3.,77
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 2.,78
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,79
+Move slower near obstacle 3 and take right of obstacle 2 and be farther from obstacle 1.,80
+Move faster in the late segment and take left of obstacle 4 and be closer to obstacle 2.,81
+Move slower near obstacle 1 and take right of obstacle 3 and be farther from obstacle 2.,82
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 1.,83
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 2.,84
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 3.,85
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,86
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,87
+Move slower near obstacle 3 and take right of obstacle 4 and be farther from obstacle 2.,88
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 4.,89
+Move slower in the mid-segment and take right of obstacle 3 and be farther from obstacle 1.,90
+Move faster in the early segment and take left of obstacle 3 and be closer to obstacle 2.,91
+Move slower in the mid-segment and take right of obstacle 1 and be farther from obstacle 4.,92
+Move faster in the late segment and take left of obstacle 2 and be closer to obstacle 1.,93
+Move slower near obstacle 2 and take right of obstacle 3 and be farther from obstacle 1.,94
+Move faster in the early segment and take left of obstacle 4 and be closer to obstacle 2.,95
+Move slower near obstacle 4 and take right of obstacle 3 and be farther from obstacle 2.,96
+Move faster in the early segment and take left of obstacle 1 and be closer to obstacle 4.,97
+Move slower in the mid-segment and take right of obstacle 2 and be farther from obstacle 3.,98
+Move faster in the late segment and take left of obstacle 4 and be closer to obstacle 1.,99
+Move slower near obstacle 1 and take right of obstacle 2 and be farther from obstacle 4.,100
+Move faster in the late segment and take left of obstacle 1 and be closer to obstacle 4.,101
+Move slower near obstacle 3 and take right of obstacle 2 and be farther from obstacle 1.,102
+Move faster in the early segment and take left of obstacle 2 and be closer to obstacle 1.,103
+Move slower in the mid-segment and take right of obstacle 4 and be farther from obstacle 3.,104
+Move faster in the late segment and take left of obstacle 3 and be closer to obstacle 4.,105

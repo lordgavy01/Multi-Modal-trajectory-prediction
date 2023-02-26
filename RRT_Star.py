@@ -42,6 +42,23 @@ class RRTStar:
         nearest_idx = np.argmin(distances)
         return nearest_idx
     
+    def get_approx_config(self,point,max_try=50,thresh=10):
+        minDist=9999999999
+        bestConfig=None
+        while max_try:
+            config=self.get_random_config(0,0)
+            lastRectangle=self.robot_type.get_rectangle(config)[-1]
+            x,y=0.0,0.0
+            for i in range(4):
+                x+=lastRectangle[i][0]
+                y+=lastRectangle[i][1]
+            x/=4
+            y/=4
+            if self.distance((x,y),point)<minDist:
+                minDist=self.distance((x,y),point)
+                bestConfig=config
+            max_try-=1
+        return bestConfig
     def collision_free_path(self,old_config,new_config,get_path=False,eps_step=0.25):
         L=0
         Path=[]
